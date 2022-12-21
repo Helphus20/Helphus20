@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate in simple projects, which i can develop
 - 📫 My e-mail: felipedasilvabispodossantos@gmail.com
 - ✨Also i learning to use Git and GitHub
+- From Salvador, Bahia, Brazil
 
 <!---
 Helphus20/Helphus20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
