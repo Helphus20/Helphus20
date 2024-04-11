@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning  Javascript, C, Phyton, PHP...
 - 💞️ I’m looking to collaborate in simple projects, which i can develop
 - 📫 My e-mail: felipedasilvabispodossantos@gmail.com
-- ✨Also i learning to use Git and GitHub
 - From Salvador, Bahia, Brazil
 
 <!---
