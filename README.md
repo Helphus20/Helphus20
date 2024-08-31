@@ -64,6 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Helphus20/Helphus20/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Helphus20/Helphus20/snake.svg" alt="Snake animation" />
 
 ###
