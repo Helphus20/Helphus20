@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
